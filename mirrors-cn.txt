@@ -1,0 +1,15 @@
+# File containing one mirror URL per line
+# URLs should end with /
+http://mirrors.aliyun.com/ubuntu/
+http://ftp.sjtu.edu.cn/ubuntu/
+http://mirrors.cn99.com/ubuntu/
+http://mirrors.huaweicloud.com/repository/ubuntu/
+http://mirrors.nju.edu.cn/ubuntu/
+http://mirrors.njupt.edu.cn/ubuntu/
+http://mirrors.sohu.com/ubuntu/
+http://mirrors.tuna.tsinghua.edu.cn/ubuntu/
+http://mirrors.ustc.edu.cn/ubuntu/
+http://mirrors.yun-idc.com/ubuntu/
+http://mirror.lzu.edu.cn/ubuntu/
+http://mirrors.cqu.edu.cn/ubuntu/
+http://mirrors.dgut.edu.cn/ubuntu/
